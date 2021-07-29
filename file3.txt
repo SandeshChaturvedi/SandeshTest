@@ -1,4 +1,0 @@
-File no 3 it is
-We are changing this to see merge demo.
-File no 3 it is.
-Adding one more line in dev branch.
